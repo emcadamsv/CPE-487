@@ -1,0 +1,6 @@
+#Final Message
+#This project uses the Nexys A7 to display a short message using the 7 segment displays
+#This project is an iteration on the code provided in this courses Lab 1
+#The message is printed out twice over 8 seven segment displays. The message spells "AAAAAAAAHHHHHHHH"
+#Photos of the result are on github: https://github.com/emcadamsv/CPE-487/blob/main/Final%20Project/message%20first%20half
+#https://github.com/emcadamsv/CPE-487/blob/main/Final%20Project/message%20second%20half
